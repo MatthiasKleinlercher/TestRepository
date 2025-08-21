@@ -1,0 +1,14 @@
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\bin\Debug\net8.0\Wochentagsberechnung.exe
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\bin\Debug\net8.0\Wochentagsberechnung.deps.json
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\bin\Debug\net8.0\Wochentagsberechnung.runtimeconfig.json
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\bin\Debug\net8.0\Wochentagsberechnung.dll
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\bin\Debug\net8.0\Wochentagsberechnung.pdb
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\obj\Debug\net8.0\Wochentagsberechnung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\obj\Debug\net8.0\Wochentagsberechnung.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\obj\Debug\net8.0\Wochentagsberechnung.AssemblyInfo.cs
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\obj\Debug\net8.0\Wochentagsberechnung.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\obj\Debug\net8.0\Wochentagsberechnung.dll
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\obj\Debug\net8.0\refint\Wochentagsberechnung.dll
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\obj\Debug\net8.0\Wochentagsberechnung.pdb
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\obj\Debug\net8.0\Wochentagsberechnung.genruntimeconfig.cache
+C:\Users\matth\Desktop\4AHET\AIIT\Wochentagsberechnung\obj\Debug\net8.0\ref\Wochentagsberechnung.dll
